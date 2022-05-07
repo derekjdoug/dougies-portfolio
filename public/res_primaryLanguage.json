@@ -11,36 +11,36 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Running Shoe Guide",
+        "startDate": "2022",
+        "description": "Built as a class project, The Running Shoe Guide helps users cut through all of the marketing noise and learn which style of running shoe best fits their specific needs. I was responsible for the JavaScript logic, implementing use of Karnaugh Maps to simplify the questionnaire and ensure accurate results.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/running-shoe-guide/rsg-1.png",
+          "images/portfolio/running-shoe-guide/rsg-2.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Horned Beasts",
+        "startDate": "2022",
+        "description": "Personal project crafted in an Intermediate coding course. App integrates React and Bootstrap libraries for interactive user experience including use of modals and .json files.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/horned-beasts/hb-1.png",
+          "images/portfolio/horned-beasts/hb-2.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -51,67 +51,79 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Coming Soon . . .",
+        "startDate": "2022",
+        "description": "My next personal project will be featured in this space! Credit for the amazing photograph: https://www.flickr.com/photos/anythreewords/3197918781",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/coming-soon/coming-soon-1.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Full-Stack Development Student",
+        "years": "01.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
+          "React",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML 5",
+          "CSS 3"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "United States Air Force",
+        "title": "Military Training Instructor",
+        "years": "05.2018 - Present",
         "mainTech": [
-          "Angular 7/8"
+          "Leadership Development"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Military Skills",
+          "Physical Training",
+          "Expeditionary Skills",
+          "Military Drill & Ceremony",
+          "Mentorship"
+        ]
+      },
+      {
+        "company": "United States Air Force",
+        "title": "Urdu Linguist",
+        "years": "07.2011 - 05.2018",
+        "mainTech": [
+          "Foreign Language"
+        ],
+        "technologies": [
+          "Urdu Language Fluency",
+          "Translation",
+          "Transcription",
+          "Training"
         ]
       }
     ]
