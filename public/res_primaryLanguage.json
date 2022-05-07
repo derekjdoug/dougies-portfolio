@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Dougie Douglas. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Welcome",
+      "description": "👋 I'm Dougie Douglas. Texas-based, budding full-stack developer with a decade-long background in linguistics and leadership development. I'm working with JavaScript, React, HTML5, and CSS to create apps that are easy-to-use and intuitive, allowing the world to focus on what THEY are most passionate about. What's your passion?",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
