@@ -9,3 +9,15 @@ My passion is developing intuitive, easy-to-use software that makes people's liv
 ## Deployed Site
 
 - [Live Site](https://dougies-portfolio.netlify.app/)
+
+## Time
+
+Number and name of feature: Lab 05
+
+Estimate of time needed to complete: 4 hours
+
+Start time: 1400
+
+Finish time: 1900
+
+Actual time needed to complete: 5 hours
